@@ -1,0 +1,95 @@
+
+game number: 1
+partitions: car goat goat
+the car is behind partition number: 0
+first choice: goat   index: 1
+indices of goats partition:  1 2
+index of exposed goat partition: 2
+second choice: car  index of second choice: 0
+
+
+game number: 2
+partitions: car goat goat
+the car is behind partition number: 0
+first choice: car   index: 0
+indices of goats partition:  1 2
+index of exposed goat partition: 2
+second choice: goat  index of second choice: 1
+
+
+game number: 3
+partitions: goat car goat
+the car is behind partition number: 1
+first choice: car   index: 1
+indices of goats partition:  0 2
+index of exposed goat partition: 2
+second choice: goat  index of second choice: 0
+
+
+game number: 4
+partitions: goat goat car
+the car is behind partition number: 2
+first choice: goat   index: 0
+indices of goats partition:  0 1
+index of exposed goat partition: 1
+second choice: car  index of second choice: 2
+
+
+game number: 5
+partitions: goat car goat
+the car is behind partition number: 1
+first choice: car   index: 1
+indices of goats partition:  0 2
+index of exposed goat partition: 2
+second choice: goat  index of second choice: 0
+
+
+game number: 6
+partitions: goat car goat
+the car is behind partition number: 1
+first choice: goat   index: 0
+indices of goats partition:  0 2
+index of exposed goat partition: 2
+second choice: car  index of second choice: 1
+
+
+game number: 7
+partitions: goat goat car
+the car is behind partition number: 2
+first choice: car   index: 2
+indices of goats partition:  0 1
+index of exposed goat partition: 1
+second choice: goat  index of second choice: 0
+
+
+game number: 8
+partitions: goat goat car
+the car is behind partition number: 2
+first choice: car   index: 2
+indices of goats partition:  0 1
+index of exposed goat partition: 1
+second choice: goat  index of second choice: 0
+
+
+game number: 9
+partitions: goat car goat
+the car is behind partition number: 1
+first choice: goat   index: 0
+indices of goats partition:  0 2
+index of exposed goat partition: 2
+second choice: car  index of second choice: 1
+
+
+game number: 10
+partitions: car goat goat
+the car is behind partition number: 0
+first choice: goat   index: 2
+indices of goats partition:  1 2
+index of exposed goat partition: 1
+second choice: car  index of second choice: 0
+
+
+
+number of games: 10
+number of wins   because of choice change: 5
+number of losses because of choice change: 5
